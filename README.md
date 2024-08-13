@@ -5,9 +5,9 @@ empty mockup             |  inserted mockup (Our Solution)  |  Solution by Canva
 :-------------------------:|:-------------------------:|:-------------------------:
 ![empty mockup](base_image.png "empty/unedited Mockup - Goal is to change the view of the window")  |  ![inserted mockup](filled_polygon_image_starrysky.jpg "inserted/edited Mockup - see window!")  |  ![solution Canva](solution_canva.png "Solution by Canva generating incorrect editing -> see inconsistency in clouds")
 
-SAM segmented image |  SAM prompt placements  
+SAM segmented image by Canva  |  SAM segmented image |  SAM prompt placements  
 :-------------------------:|:-------------------------:|:-------------------------:
-![SAM segmented image](window_box_prompt_for_sam.jpg "image with SAM point and box Prompts for smart area selection")  |  ![SAM prompt placements](window_box_prompt_for_sam.jpg "Image with SAM prompt placement of points and boxes for smart segmenting")  
+![SAM segmented image by Canva](SAM_segmented_image_by_canva.jpg "image with only SAM point (no box were needed for correct segmentation) Prompts for smart area selection")  |  ![SAM segmented image](window_box_prompt_for_sam.jpg "image with SAM point and box Prompts for smart area selection")  |  ![SAM prompt placements](window_box_prompt_for_sam.jpg "Image with SAM prompt placement of points and boxes for smart segmenting")  
 
 inserted image  |
 :-------------------------:|
