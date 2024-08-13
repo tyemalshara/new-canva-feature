@@ -3,6 +3,10 @@ This Repo demonstrates a better way than Canva to turn objects in image into a m
 
 ![empty mockup](base_image.png "empty/unedited Mockup - Goal is to change the view of the window" =50%x) ![inserted mockup](filled_polygon_image_starrysky.jpg "inserted/edited Mockup - see window!" =50%x)
 
+empty mockup             |  inserted mockup
+:-------------------------:|:-------------------------:
+![empty mockup](base_image.png "empty/unedited Mockup - Goal is to change the view of the window")  |  ![inserted mockup](filled_polygon_image_starrysky.jpg "inserted/edited Mockup - see window!")
+
 <p align="middle">
   <img src="/base_image.png" alt="empty mockup" title="empty/unedited Mockup - Goal is to change the view of the window"  />
   <img src="/filled_polygon_image_starrysky.jpg" alt="inserted mockup" title="inserted/edited Mockup - see window!"  /> 
