@@ -4,9 +4,9 @@ This Repo demonstrates a better way than Canva to turn objects in image into a m
 ![empty mockup](base_image.png "empty/unedited Mockup - Goal is to change the view of the window" =50%x) ![inserted mockup](filled_polygon_image_starrysky.jpg "inserted/edited Mockup - see window!" =50%x)
 
 <p align="middle">
-  <img src="/base_image.png" width="100" />
-  <img src="/filled_polygon_image_starrysky.jpg" width="100" /> 
-  <img src="/window box prompt for sam.jpg" width="100" />
+  <img src="/base_image.png" alt="empty mockup" title="empty/unedited Mockup - Goal is to change the view of the window"  />
+  <img src="/filled_polygon_image_starrysky.jpg" alt="inserted mockup" title="inserted/edited Mockup - see window!"  /> 
+  <img src="/window box prompt for sam.jpg" alt="image with SAM point and box Prompts for smart area selection" title="image with SAM point and box Prompts for smart area selection"  />
 </p>
 
 ## Features
