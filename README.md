@@ -1,7 +1,7 @@
 # new-canva-feature
 This Repo demonstrates a better way than Canva to turn objects in image into a mockup-able, after witnessing a weird behavior (inconsistency of the image to be added to the mockup) when trying to change the background of a window by using the Click feature of Magic Edit in the Magic Studio.
 
-empty mockup             |  inserted mockup (Our Solution)  |  Solution by Canva
+empty mockup             |  inserted mockup (Our Solution)  |  Solution by Canva (inconsistency of Clouds)
 :-------------------------:|:-------------------------:|:-------------------------:
 ![empty mockup](base_image.png "empty/unedited Mockup - Goal is to change the view of the window")  |  ![inserted mockup](filled_polygon_image_starrysky.jpg "inserted/edited Mockup - see window!")  |  ![solution Canva](solution_canva.png "Solution by Canva generating incorrect editing -> see inconsistency in clouds")
 
