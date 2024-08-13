@@ -7,7 +7,7 @@ empty mockup             |  inserted mockup (Our Solution)  |  Solution by Canva
 
 SAM segmented image by Canva  |  SAM segmented image |  SAM prompt placements  
 :-------------------------:|:-------------------------:|:-------------------------:
-![SAM segmented image by Canva](SAM_segmented_image_by_canva.jpg "image with only SAM point (no box were needed for correct segmentation) Prompts for smart area selection")  |  ![SAM segmented image](window_box_prompt_for_sam.jpg "image with SAM point and box Prompts for smart area selection")  |  ![SAM prompt placements](window_box_prompt_for_sam.jpg "Image with SAM prompt placement of points and boxes for smart segmenting")  
+![SAM segmented image by Canva](SAM_segmented_image_by_canva.jpg "image with only SAM point (no box were needed for correct segmentation) Prompts for smart area selection")  |  ![SAM segmented image](SAM_segmented_image.png "image with SAM point and box Prompts for smart area selection")  |  ![SAM prompt placements](window_box_prompt_for_sam.jpg "Image with SAM prompt placement of points and boxes for smart segmenting")  
 
 inserted image  |
 :-------------------------:|
